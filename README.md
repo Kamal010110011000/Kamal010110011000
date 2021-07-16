@@ -26,5 +26,8 @@ I like coding and want to solve real-world problem through my code, I often do c
 #### Statictics
 ![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamal010110011000&show_icons=true&theme=dark&count_private=true)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamal010110011000&langs_count=6)](https://github.com/Kamal010110011000/github-readme-stats)
+-->
+
 
